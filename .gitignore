@@ -17,3 +17,6 @@
 /myapi.key
 /.suf
 .idea/
+*.o
+*.img
+*.bin
